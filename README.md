@@ -14,3 +14,13 @@
 
 •	Also the responses from Chat Bot are in speech and written form can help to increase productivity in many businesses.
 
+UI of the project:
+
+![image](https://user-images.githubusercontent.com/77162392/180450168-bd090f4a-a017-44fe-9ffc-72b582d6dc00.png)
+
+![image](https://user-images.githubusercontent.com/77162392/180450190-39b97a26-0129-4871-8b55-7587ce0426b2.png)
+ 
+ ![image](https://user-images.githubusercontent.com/77162392/180450118-da225dae-aa4d-4fdc-a9d9-a6c879b4d798.png)
+
+
+ 
