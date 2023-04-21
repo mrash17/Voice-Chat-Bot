@@ -1,5 +1,6 @@
 # Voice-Chat-Bot
 https://alexander-chat-bot.netlify.app/
+
 •	A person cannot be available every time to answer the questions of a customer or a person. So to  prevents customers from waiting to receive responses Chatbot is used which also decreases the cost of keeping more number of Customer Supporter.
 
 •	ChatBot can be described as software/application that can chat with people using artificial intelligence.
